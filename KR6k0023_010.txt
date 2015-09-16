@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:12.158738
+#+DATE: 2015-08-30 20:41:27.764311
 #+TITLE: 根本說一切有部毘奈耶
 #+PROPERTY: CBETA_ID T23n1442
 #+PROPERTY: ID KR6k0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 23, No. 1442
 #+PROPERTY: VOL 23
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6k0023_T_010-0675a> ¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《根本說一切有部毘奈耶》卷第十¶
+《根本說一切有部毘奈耶》卷第十¶
 ¶
 三藏法師義淨奉　制譯¶
 妄說自得上人法學處第四之二¶

@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:12.258283
+#+DATE: 2015-08-30 20:41:27.855425
 #+TITLE: 根本說一切有部毘奈耶
 #+PROPERTY: CBETA_ID T23n1442
 #+PROPERTY: ID KR6k0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 23, No. 1442
 #+PROPERTY: VOL 23
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6k0023_T_013-0691b> ¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 《根本說一切有部毘奈耶》卷¶
+《根本說一切有部毘奈耶》卷¶
 第十三¶
 ¶
 三藏法師義淨奉　制譯¶
 
-8無根謗學處
-:PROPERTIES:
-:head: 無根謗學處第八
-:END:
-¶
+無根謗學處第八¶
 
 爾時薄伽梵。在王舍城羯蘭鐸迦池竹林園¶
 中。時波波國中有一壯士大臣名曰勝軍。大¶
