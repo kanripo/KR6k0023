@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:13.307681
+#+DATE: 2015-08-30 20:41:35.012801
 #+TITLE: 根本說一切有部毘奈耶
 #+PROPERTY: CBETA_ID T23n1442
 #+PROPERTY: ID KR6k0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 23, No. 1442
 #+PROPERTY: VOL 23
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0023_T_043-0860c> ¶¶¶¶¶
 #+PROPERTY: JUAN 43
 ¶
 ¶
-
- 《根本說一切有部毘奈耶》卷第四¶
+《根本說一切有部毘奈耶》卷第四¶
 十三¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -559,11 +558,7 @@
 #+END_VERSE
 」¶
 
-81食前食後行詣餘家不囑授學處
-:PROPERTIES:
-:head: 食前食後行詣餘家不囑授學處第八十一
-:END:
-¶
+食前食後行詣餘家不囑授學處第八十一¶
 
 爾時薄伽梵。在室羅伐城逝多林給孤獨園。
 <pb:KR6k0023_T_043-0866a>¶
@@ -590,7 +585,7 @@
 告長者。報曰聖者鄔波難陀今未來到。如是¶
 至三。阿難陀曰。若鄔波難陀不來者不欲行¶
 食耶。報言如是。具壽阿難陀以事白佛。爾時¶
-世尊說伽他曰。¶
+世尊說伽他白。¶
 
 #+BEGIN_VERSE
 「　由他悉皆苦
