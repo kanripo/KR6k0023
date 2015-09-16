@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:12.319593
+#+DATE: 2015-08-30 20:41:30.909429
 #+TITLE: 根本說一切有部毘奈耶
 #+PROPERTY: CBETA_ID T23n1442
 #+PROPERTY: ID KR6k0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 23, No. 1442
 #+PROPERTY: VOL 23
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6k0023_T_015-0702a> ¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《根本說一切有部毘奈耶》卷第十¶
+《根本說一切有部毘奈耶》卷第十¶
 五¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -256,11 +255,7 @@
 芻。作白羯磨乃至白四法。一一皆得惡作罪。¶
 又無犯者。初造過人。或癡狂心亂痛惱所纏。¶
 
-11隨順破僧違諫學處
-:PROPERTIES:
-:head: 隨順破僧違諫學處第十一
-:END:
-¶
+隨順破僧違諫學處第十一¶
 
 爾時世尊即於本座。為諸聲聞弟子欲制破¶
 僧隨伴學處。告諸苾芻曰。汝諸苾芻且未須
@@ -306,11 +301,7 @@
 惡方便共彼為伴。順邪違正皆得惡作。餘有¶
 犯相。如前破僧處廣說應知。¶
 
-12污家學處
-:PROPERTIES:
-:head: 污家學處第十二
-:END:
-¶
+污家學處第十二¶
 
 佛在室羅伐城逝多林給孤獨園。時抧吒山¶
 有三苾芻。一名阿濕薄迦。二名補捺伐素。三¶
