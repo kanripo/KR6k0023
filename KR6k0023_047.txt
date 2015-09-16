@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:13.432780
+#+DATE: 2015-08-30 20:41:38.114830
 #+TITLE: 根本說一切有部毘奈耶
 #+PROPERTY: CBETA_ID T23n1442
 #+PROPERTY: ID KR6k0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 23, No. 1442
 #+PROPERTY: VOL 23
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0023_T_047-0883c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 47
 ¶
 ¶
-
- 《根本說一切有部毘奈耶》卷第四¶
+《根本說一切有部毘奈耶》卷第四¶
 十七¶
 ¶
 三藏法師義淨奉　制譯¶

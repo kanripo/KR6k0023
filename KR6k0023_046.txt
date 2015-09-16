@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:13.396689
+#+DATE: 2015-08-30 20:41:37.972833
 #+TITLE: 根本說一切有部毘奈耶
 #+PROPERTY: CBETA_ID T23n1442
 #+PROPERTY: ID KR6k0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 23, No. 1442
 #+PROPERTY: VOL 23
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0023_T_046-0877c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 46
 ¶
 ¶
-
- 《根本說一切有部毘奈耶》卷第四¶
+《根本說一切有部毘奈耶》卷第四¶
 十六¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -154,7 +153,7 @@
 輪迴知無定相。一切諸行皆悉無常。善觀察¶
 已斷諸煩惱證阿羅漢果。觀金與土平等不¶
 殊。刀割香塗了無二想。心無罣礙如手撝空。¶
-能以大智破無明㲉。三明六通四無礙辯悉¶
+能以大智破無明[穀-禾+卵]。三明六通四無礙辯悉¶
 皆具足。於三界中所有愛著。利養恭敬無不¶
 棄捨。證解脫樂說伽他曰。¶
 

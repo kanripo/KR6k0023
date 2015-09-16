@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:12.061220
+#+DATE: 2015-08-30 20:41:36.384787
 #+TITLE: 根本說一切有部毘奈耶
 #+PROPERTY: CBETA_ID T23n1442
 #+PROPERTY: ID KR6k0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 23, No. 1442
 #+PROPERTY: VOL 23
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0023_T_007-0658b> ¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《根本說一切有部毘奈耶》卷第七¶
+《根本說一切有部毘奈耶》卷第七¶
 ¶
 三藏法師義淨奉　制譯¶
 斷人命學處第三之二¶
@@ -400,7 +399,7 @@
 市迦。若於彼家以諸藥草而為鬘帶。橫繫門¶
 上及置水瓶。或門繫牸牛并同色犢子。或繫¶
 牸羊并同色羊羔。或家有磨藥石并有石軸。¶
-或門有因陀羅𣏾。或火常不滅。或家安形像¶
+或門有因陀羅[木*戈]。或火常不滅。或家安形像¶
 或有佛真身。或轉輪王或轉輪王母或懷輪¶
 王胎。或有菩薩或有菩薩母或有懷菩薩胎。¶
 或將欲誦戒或正誦戒時。或將欲誦四阿笈¶
